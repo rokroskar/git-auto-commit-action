@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu
+set -eux
 
 _main() {
     _switch_to_repository
